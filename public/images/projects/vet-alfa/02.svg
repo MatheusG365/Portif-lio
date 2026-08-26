@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1400 900">
+  <defs>
+    <linearGradient id="g" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#171b27"/>
+      <stop offset=".5" stop-color="#0d1018"/>
+      <stop offset="1" stop-color="#252b3a"/>
+    </linearGradient>
+    <pattern id="p" width="50" height="50" patternUnits="userSpaceOnUse">
+      <path d="M50 0H0V50" fill="none" stroke="#ffffff" stroke-opacity=".035"/>
+    </pattern>
+  </defs>
+  <rect width="1400" height="900" fill="url(#g)"/>
+  <rect width="1400" height="900" fill="url(#p)"/>
+  <circle cx="1120" cy="350" r="260" fill="#ffffff" fill-opacity=".025"/>
+  <text x="90" y="110" fill="#8f98aa" font-family="monospace" font-size="24">PROJECT PREVIEW • 02</text>
+  <text x="90" y="450" fill="#f2f3f5" font-family="Arial, sans-serif" font-weight="700" font-size="76">VET ALFA</text>
+  <text x="90" y="510" fill="#858d9f" font-family="monospace" font-size="22">SUBSTITUA ESTE ARQUIVO PELA SCREENSHOT DO PROJETO</text>
+</svg>
