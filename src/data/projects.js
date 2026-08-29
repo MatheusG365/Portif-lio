@@ -24,13 +24,16 @@ const projects = [
     category: "Projeto colaborativo",
     status: "Projeto",
     description:
-      "Projeto colaborativo com frontend e backend, criado para colocar em prática desenvolvimento de uma aplicação completa.",
+      "Projeto colaborativo com frontend e backend, criado para colocar em prática desenvolvimento de uma aplicação completa. Esse sistema tem um desenvolvimento mais avançado " +
+    "onde ele tem um sistema mais complexo contando com cadastro de ongs, doadores e adms. Onde as ongs conseguem fazer cadastros de projeto e atualizações dos projetos além de conseguirem receber doações "+
+    "essas doações são feitas direto pelo aplicativo usando uma biblioteca python e depois elas enviam um email informando o doador.",
+
     tags: ["React", "JavaScript", "Python", "CSS"],
     github: "https://github.com/diogolopesnunes/conectando-e-doando",
     images: [
-      "/images/projects/conectando-doando/01.svg",
-      "/images/projects/conectando-doando/02.svg",
-      "/images/projects/conectando-doando/03.svg",
+      "/images/projects/conectando-doando/01.png",
+      "/images/projects/conectando-doando/02.png",
+      "/images/projects/conectando-doando/03.png",
     ],
   },
   {
@@ -43,9 +46,9 @@ const projects = [
     tags: ["HTML", "CSS", "JavaScript"],
     github: "https://github.com/MariaGregorutti/Dog-Dodoi",
     images: [
-      "/images/projects/dog-dodoi/01.svg",
-      "/images/projects/dog-dodoi/02.svg",
-      "/images/projects/dog-dodoi/03.svg",
+      "/images/projects/dog-dodoi/01.png",
+      "/images/projects/dog-dodoi/02.png",
+      "/images/projects/dog-dodoi/03.png",
     ],
   },
   {
@@ -54,13 +57,14 @@ const projects = [
     category: "Projeto de software",
     status: "Projeto",
     description:
-      "Projeto de software veterinário desenvolvido pela equipe Prontezza Software, apresentado aqui como parte do portfólio de projetos.",
+      "Projeto de software veterinário desenvolvido pela equipe Prontezza Software, apresentado aqui como parte do portfólio de projetos. Esse progéto foi feito com" +
+        "a inteção de aprender a programar o básico, ele tem cadastro de usuario e pets, além de um sistema de agendamento e histórico de agendamento por pets",
     tags: ["Software", "Veterinária", "Projeto"],
     github: "https://github.com/Prontezza-Software/VetAlfa",
     images: [
-      "/images/projects/vet-alfa/01.svg",
-      "/images/projects/vet-alfa/02.svg",
-      "/images/projects/vet-alfa/03.svg",
+      "/images/projects/vet-alfa/01.png",
+      "/images/projects/vet-alfa/02.png",
+      "/images/projects/vet-alfa/03.png",
     ],
   },
   {
@@ -73,9 +77,9 @@ const projects = [
     tags: ["React Native", "JavaScript", "Mobile"],
     github: "https://github.com/MatheusG365/Livros",
     images: [
-      "/images/projects/biblioteca-senai/01.svg",
-      "/images/projects/biblioteca-senai/02.svg",
-      "/images/projects/biblioteca-senai/03.svg",
+      "/images/projects/biblioteca-senai/01.png",
+      "/images/projects/biblioteca-senai/02.png",
+      "/images/projects/biblioteca-senai/03.png",
     ],
   },
 ];
